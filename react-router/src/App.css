@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  background-color: lightcoral; 
+}
+
+.Nav-link {
+  padding: 2rem;
+}
+
+.nav-item a {
+  text-decoration: none;
+  margin-top: 1rem;
+}
+
