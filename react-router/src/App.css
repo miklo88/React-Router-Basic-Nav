@@ -14,5 +14,18 @@
 .nav-item a {
   text-decoration: none;
   margin-top: 1rem;
+  color: lightcoral;
 }
 
+button {
+  background-color: blanchedalmond;
+  padding: 20px, 10px;
+  margin: 5px;
+}
+
+h1 {
+  color: blanchedalmond;
+}
+.CTA-h1 {
+  color: lightcoral;
+}
